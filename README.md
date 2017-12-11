@@ -2,7 +2,7 @@
 
 ## Introduction
 
-This project is for testing es6 demos with a wet finger.
+This project is for testing some es6 demos with a wet finger.
 
 ## Install 
 
@@ -12,3 +12,7 @@ This project is for testing es6 demos with a wet finger.
 
 Since `gulp` watches and compiles while `nodemon` detects and run node file both automatically, 
 you can modify a specific file, like `demo.js` in `es6/` directory, and see the file output instantly from the nodemon terminal panel without re`node demo.js`, which quite saves one's life.
+
+## Reference
+
+More on [nodemon](https://github.com/remy/nodemon).
